@@ -1,0 +1,9 @@
+This is a Sinatra application template
+
+# clone this repository
+
+# start the app with
+thin -R config.ru start
+
+# Inspired by
+http://stackoverflow.com/questions/5015471/using-sinatra-for-larger-projects-via-multiple-files
