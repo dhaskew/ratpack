@@ -1,0 +1,29 @@
+html,body {
+  background-color:#4B7399;
+  font-family: Verdana, Helvetica, Arial;
+  font-size:14px;
+}
+
+h1,h2 {
+  color: #4F76A3;
+  font-weight: bold;
+  text-align: center;
+}
+
+#container {
+  width: 75%;
+  margin: 0 auto;
+  background-color: #FFF;
+  padding: 20px 40px;
+  border: solid 1px black;
+  margin-top: 20px;
+}
+
+.sql_howto {
+    background: #E6EDF5;
+    color: #4F76A3;
+    text-align:center;
+}
+#sql_top {
+    width: 600px;
+}
